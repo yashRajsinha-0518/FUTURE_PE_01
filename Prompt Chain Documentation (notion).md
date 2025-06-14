@@ -86,9 +86,6 @@ Imported:- AI voiceover- Animated visuals- Background musicThen:- Synced visuals
 | 🖼️ Scene Images | Image (.png / .jpg) |
 | 🎞️ Animated Scenes | Video Clips (.mp4) |
 | 🎶 Music | Audio (.mp3) |
-| 📽️ Final Video
-📜 Prompt Chain Documentation
-(provided in word file/notion format)
- | Full video (.mp4) edited via Canva
- 
- |
+| 📽️ Final Video | Full video (.mp4) edited via Canva
+|📜 Prompt Chain Documentation | (provided in word file/notion format)
+|Youtube Video Link for final video | https://youtu.be/T1wzHO0zbYc
